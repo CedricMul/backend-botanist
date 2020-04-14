@@ -1,5 +1,5 @@
 ![LOGO](img/happy_flower.jpeg)
-# The infamous EE challenge! xD
+# The Backend Botanist
 
 ### Learning Objectives
 - Familiarize using `datetime` library.
